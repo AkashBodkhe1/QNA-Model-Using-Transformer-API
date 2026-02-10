@@ -1,6 +1,6 @@
 # QNA Model Using Transformer API
 
-A Transformer-based Question Answering (Q&A) system built using HuggingFace Transformers as part of my **AI Internship at WEINTERN**. This project allows users to input a custom context and ask questions, generating accurate answers along with confidence scores using a pre-trained NLP model.
+A Transformer-based Question Answering (Q&A) system built using HuggingFace Transformers. This project allows users to input a custom context and ask questions, generating accurate answers along with confidence scores using a pre-trained NLP model.
 
 ---
 
